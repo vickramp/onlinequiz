@@ -28,7 +28,6 @@ $con->close();
 $_SESSION['pos']=1;
 exit;
 }
-
  ?>
 <br/><br/>
 <div id="container" class="container row">
